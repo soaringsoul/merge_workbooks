@@ -1,0 +1,23 @@
+©¦  core.py
+©¦  imgcode_rc.py
+©¦  LICENSE
+©¦  logo.ico
+©¦  main.py
+©¦  requirements.txt
+©¦  ui.qss
+©¦  Ui_fastwork.py
+©¦  __init__.py      
+©À©¤images
+©¦      imgcode.qrc
+©¦      imgcode_rc.py
+©¦      qrcode.jpg
+©¦      wechat_search.png
+©¦      
+©À©¤ui
+©¦      fastwork.ui
+©¦      fastwork_ui.e4p
+©¦      Mainwindow.qss
+©¦      Ui_fastwork.py
+©¦      __init__.py
+©¦      
+

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="qrcode">
+    <file>wechat_search.png</file>
+  </qresource>
+</RCC>
