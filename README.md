@@ -28,6 +28,7 @@ typora-root-url: images
 
 `git clone https://github.com/xugongli/merge_workbooks.git `
 
+```python
 │  core.py               # 这是合并文件的核心程序
 │  imgcode_rc.py   # ui界面上的微信公众号素材图片
 │  LICENSE
@@ -49,7 +50,9 @@ typora-root-url: images
 │      Mainwindow.qss
 │      Ui_fastwork.py
 │      __init__.py
-│      
+```
+
+
 
 2 安装依赖
 
